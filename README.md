@@ -138,6 +138,7 @@ streamlit run src/dashboard.py
 
 - Milestone 1 Report - reports/Milestone1_Report.docx
 - Milestone 2 Report - reports/Milestone2_Report.docx
+- Milestone 3 Report - reports/Milestone2_Report.docx
 - Milestone 4 Report - reports/Milestone4_Report.docx
 - Overall Project Report - reports/SafetyEye_Overall_Report.docx
 
